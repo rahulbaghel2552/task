@@ -274,17 +274,19 @@ nav,
   position: absolute;
 }
 
+.mar_tech_cont{
+  position: relative;
+}
+
 .market_cont {
   max-width: 300px;
-  top: 10%;
-  left: 67%;
-  transform: translate(50px, 50px);
+  transform: translate(0%, 60%);
+  right: 0%;
 }
 
 .tech_cms_img {
-  top: 14%;
-  left: 8%;
-  transform: translate(50px, 50px);
+  left: 0%;
+  transform: translate(0%, 85%);
 }
 
 .cash_bank {
